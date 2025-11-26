@@ -1,0 +1,14 @@
+commands that required to run on terminal 
+
+run:
+(check python is installed, if not, install it)
+python -m venv .venv
+
+pip show django //pip install django
+
+source .venv/bin/activate
+python manage.py runserver
+
+website link:
+http://127.0.0.1:8000/admin/
+http://127.0.0.1:8000/
