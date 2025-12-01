@@ -34,9 +34,6 @@ grocery app.
 ---
 
 ## 🏗️ Tech Stack
-
-> Update this section based on your exact setup.
-
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, Bootstrap
 - **Templates:** Django template engine (`base.html`, etc.)
