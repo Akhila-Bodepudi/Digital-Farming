@@ -41,17 +41,17 @@ grocery app.
 - **Version Control:** Git & GitHub
 
 ---
-**User Roles**
-Farmer
+##User Roles**
+**Farmer**
 - Register/Login
 - Manage profile
 - Add/update/delete crops
 - View orders from customers
-Customer
+**Customer**
 - Register/Login
 - Browse crops
 - Place orders
-Admin
+**Admin**
 - Manage farmers, customers, and crops
 - Oversee the platform data from admin panel
 ---
