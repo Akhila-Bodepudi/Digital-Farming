@@ -41,9 +41,35 @@ grocery app.
 - **Version Control:** Git & GitHub
 
 ---
-
+**User Roles**
+Farmer
+- Register/Login
+- Manage profile
+- Add/update/delete crops
+- View orders from customers
+Customer
+- Register/Login
+- Browse crops
+- Place orders
+Admin
+- Manage farmers, customers, and crops
+- Oversee the platform data from admin panel
+---
+**Future Work**
+- Expand crop dataset (more regions, soil types, and weather integration)
+- Add map integration to show nearby fertilizer shops and soil testing centers
+- Improve UI/UX and add local language support
+- Integrate leaf disease detection using image-based ML models
+- Add fertilizer recommendation based on crop and soil data
+- Develop Android/iOS mobile app versions
+---
+**References & Inspiration**
+- Government of India agriculture portals (mKisan, Kisan Suvidha, AgriStack, etc.)
+- Digital farming platforms like OneSoil, Climate FieldView, CropX, Agricolus
+- Research on soil-based crop recommendation using machine learning
+- YouTube channels & tutorials on organic farming and modern agricultural practices
 ## 📂 Project Structure (High-Level)
-
+---
 Example structure (your exact folders may differ):
 
 ```text
@@ -66,32 +92,5 @@ digital-farming/
 │       ├── css/
 │       ├── js/
 │       └── images/
-└── ...
+└── ... ```
 
-**User Roles**
-Farmer
-- Register/Login
-- Manage profile
-- Add/update/delete crops
-- View orders from customers
-Customer
-- Register/Login
-- Browse crops
-- Place orders
-Admin
-- Manage farmers, customers, and crops
-- Oversee the platform data from admin panel
-
-**Future Work**
-- Expand crop dataset (more regions, soil types, and weather integration)
-- Add map integration to show nearby fertilizer shops and soil testing centers
-- Improve UI/UX and add local language support
-- Integrate leaf disease detection using image-based ML models
-- Add fertilizer recommendation based on crop and soil data
-- Develop Android/iOS mobile app versions
-
-**References & Inspiration**
-- Government of India agriculture portals (mKisan, Kisan Suvidha, AgriStack, etc.)
-- Digital farming platforms like OneSoil, Climate FieldView, CropX, Agricolus
-- Research on soil-based crop recommendation using machine learning
-- YouTube channels & tutorials on organic farming and modern agricultural practices
