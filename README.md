@@ -41,7 +41,7 @@ grocery app.
 - **Version Control:** Git & GitHub
 
 ---
-##User Roles
+## User Roles
 - **Farmer**
   - Register/Login
   - Manage profile
@@ -63,7 +63,7 @@ grocery app.
 - Add fertilizer recommendation based on crop and soil data
 - Develop Android/iOS mobile app versions
 ---
-##References & Inspiration
+## References & Inspiration
 - Government of India agriculture portals (mKisan, Kisan Suvidha, AgriStack, etc.)
 - Digital farming platforms like OneSoil, Climate FieldView, CropX, Agricolus
 - Research on soil-based crop recommendation using machine learning
