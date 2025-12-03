@@ -41,21 +41,21 @@ grocery app.
 - **Version Control:** Git & GitHub
 
 ---
-##User Roles**
-**Farmer**
-- Register/Login
-- Manage profile
-- Add/update/delete crops
-- View orders from customers
-**Customer**
-- Register/Login
-- Browse crops
-- Place orders
-**Admin**
-- Manage farmers, customers, and crops
-- Oversee the platform data from admin panel
+##User Roles
+- **Farmer**
+  - Register/Login
+  - Manage profile
+  - Add/update/delete crops
+  - View orders from customers
+- **Customer**
+  - Register/Login
+  - Browse crops
+  - Place orders
+- **Admin**
+  - Manage farmers, customers, and crops
+  - Oversee the platform data from admin panel
 ---
-**Future Work**
+## Future Work
 - Expand crop dataset (more regions, soil types, and weather integration)
 - Add map integration to show nearby fertilizer shops and soil testing centers
 - Improve UI/UX and add local language support
@@ -63,34 +63,10 @@ grocery app.
 - Add fertilizer recommendation based on crop and soil data
 - Develop Android/iOS mobile app versions
 ---
-**References & Inspiration**
+##References & Inspiration
 - Government of India agriculture portals (mKisan, Kisan Suvidha, AgriStack, etc.)
 - Digital farming platforms like OneSoil, Climate FieldView, CropX, Agricolus
 - Research on soil-based crop recommendation using machine learning
 - YouTube channels & tutorials on organic farming and modern agricultural practices
-## 📂 Project Structure (High-Level)
----
-Example structure (your exact folders may differ):
 
-```text
-digital-farming/
-├── manage.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── app_name/              # main Django app (rename accordingly)
-│   ├── models.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── templates/
-│   │   ├── base.html
-│   │   ├── learning_hub.html
-│   │   ├── farmer_dashboard.html
-│   │   ├── customer_home.html
-│   │   └── ...
-│   └── static/
-│       ├── css/
-│       ├── js/
-│       └── images/
-└── ... ```
 
