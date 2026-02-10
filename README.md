@@ -9,7 +9,7 @@ grocery app.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Farmer Registration & Login**
   - Farmers can create accounts, manage their profiles, and list crops for sale.
@@ -33,7 +33,7 @@ grocery app.
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 - **Backend:** Python, Django
 - **Frontend:** HTML, CSS, Bootstrap
 - **Templates:** Django template engine (`base.html`, etc.)
