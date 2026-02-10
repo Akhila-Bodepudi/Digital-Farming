@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/akhilabodepudi/Downloads/Click - important/AKHILA-UMBC docs/MS SEM3/SOC/agronity/.venv"
+set -gx VIRTUAL_ENV "/Users/akhilabodepudi/Downloads/Click - important/AKHILA-UMBC docs/MS SEM3/SOC/agronity1/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

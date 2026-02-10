@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/akhilabodepudi/Downloads/Click - important/AKHILA-UMBC docs/MS SEM3/SOC/agronity/.venv"
+setenv VIRTUAL_ENV "/Users/akhilabodepudi/Downloads/Click - important/AKHILA-UMBC docs/MS SEM3/SOC/agronity1/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
