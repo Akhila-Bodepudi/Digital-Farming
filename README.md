@@ -68,8 +68,3 @@ grocery app.
 - Digital farming platforms like OneSoil, Climate FieldView, CropX, Agricolus
 - Research on soil-based crop recommendation using machine learning
 - YouTube channels & tutorials on organic farming and modern agricultural practices
-
-
-Website images
-
-
